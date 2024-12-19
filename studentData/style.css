@@ -1,0 +1,18 @@
+body {
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.con {	
+	color: black;
+	backdrop-filter: blur(9px);
+	padding: 20px 40px 40px 40px;
+}
+.borders {
+
+	background: transparent;
+	padding: 10px;
+}
+input {
+	background: transparent;
+}
